@@ -1,10 +1,4 @@
-<!-- CSS reset from Algolia -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.4.5/themes/reset-min.css" integrity="sha256-QlHlZdbSVxaYkUHxhMFhAj/L3pJiW1LuomSCONXBWms=" crossorigin="anonymous">
-<!-- Starter design theme from Algolia -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.4.5/themes/satellite-min.css" integrity="sha256-TehzF/2QvNKhGQrrNpoOb2Ck4iGZ1J/DI4pkd2oUsBc=" crossorigin="anonymous">
-
-<style>
-  :root {
+:root {
     --blue: #0253b3;
     --white75: rgba(255, 255, 255, 0.75);
     --black: #000000;
@@ -1933,5 +1927,3 @@
       font-size: 15px;
     }
   }
-  
-</style>
